@@ -14,3 +14,7 @@ Part two: 2344864 - WRONG  | 82818007
 DAY 4
 Part one: 23441 - CORRECT  | 23441
 Part two: 3138  - WRONG    | 5923918
+===================================================================
+DAY 5
+Part one: 318728750 - CORRECT  | 318728750
+Part two: fucked up at handling data, tried to optimize and fucked up again| 37384986
