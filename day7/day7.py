@@ -154,7 +154,6 @@ def part_12():
         total_winnings=0
         for single_set in list_to_process:
             single_set['position']=rank_to_assign
-            #print(single_set['single_set'],single_set['rank'],single_set['position'],single_set['bid'])
             rank_to_assign+=1
             total_winnings=(single_set['position']*single_set['bid'])+total_winnings
         print(f"Answer p1: {total_winnings}")
@@ -163,7 +162,6 @@ def part_12():
         total_winnings=0
         for single_set in list_to_process_2:
             single_set['position']=rank_to_assign
-            #print(single_set['single_set'],single_set['rank'],single_set['position'],single_set['bid'])
             rank_to_assign+=1
             total_winnings=(single_set['position']*single_set['bid'])+total_winnings
         print(f"Answer p2: {total_winnings}")        
@@ -171,4 +169,3 @@ def part_12():
 if __name__=="__main__":
     part_12()
                 
-
