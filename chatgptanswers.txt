@@ -17,7 +17,7 @@ Part two: 3138  - WRONG    | 5923918
 ===================================================================
 DAY 5
 Part one: 318728750 - CORRECT  | 318728750
-Part two: fucked up at handling data, tried to optimize and fucked up again| 37384986
+Part two: # - Couldnt form the answer| 37384986
 ===================================================================
 DAY 6
 Part one: 1155175 - CORRECT  | 1155175
@@ -29,4 +29,4 @@ Part two: 250000217 - WRONG  | 251135960
 ===================================================================
 DAY 8
 Part one: 14257 - CORRECT  | 14257
-Part two: # - #  | 
+Part two: # - Couldnt form the answer | 16187743689077
