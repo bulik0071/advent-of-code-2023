@@ -1,3 +1,5 @@
+print("Hello 8th day AOC2023!")
+
 def parse_input(puzzles:str):
     inst=puzzles.split('\n\n')
     instructions=[]

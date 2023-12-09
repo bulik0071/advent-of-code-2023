@@ -30,3 +30,7 @@ Part two: 250000217 - WRONG  | 251135960
 DAY 8
 Part one: 14257 - CORRECT  | 14257
 Part two: # - Couldnt form the answer | 16187743689077
+===================================================================
+DAY 9
+Part one: 1584748274 - CORRECT | 1584748274
+Part two: # - Couldnt form the answer first time, second time answer was 1026 - CORRECT | 1026
